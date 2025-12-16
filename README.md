@@ -6,7 +6,7 @@ This data was collected through an anonymous survey sent out to all undergraduat
 Overall, data was collected from 28 undergraduate students. 13 of these students were second-years and 15 of these students were third-years. 
 
 ## Questions
-### The survey asked three main question:
+### The survey asked three main questions:
 1. Do you prefer "blocks" of classes (e.g. two classes from 9:30 AM-12:15 PM) or stand alone classes (e.g. one class from 3:30-4:45 PM)
 2. Please rank which block class times you prefer
 3. Please rank which stand alone class times you prefer?
@@ -31,4 +31,5 @@ There was an additional question for comments. Many students responded that bloc
 ## Conclusion
 
 Thank you for taking the time and effort to accomodate the preferences of students!
+
 
