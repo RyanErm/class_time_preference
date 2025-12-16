@@ -21,3 +21,6 @@ Under the umbrella of block classes, students preferred to have blocks in the mo
 
 Under the umbrella of stand alone classes, students preferred to have morning classes that occur twice a week (1.25 hour sessions). This is in comparison to afternoon classes and ones that occur three times a week (50 minute sessions). 
 ![Counts](images/stand.png)
+
+### Conclusion
+Thank you for taking the time and effort to accomodate the preferences of students!
