@@ -17,7 +17,7 @@ Overall, students preferred the block class schedule compared to stand alone cla
 ![Counts](images/counts.png)
 
 Under the umbrella of block classes, students preferred to have blocks in the morning compared to the afternoon. Tuesday/Thursday and Monday/Wednesday had similar times. 
-![Counts](images/blocks.png)
+![Counts](images/block.png)
 
 Under the umbrella of stand alone classes, students preferred to have morning classes that occur twice a week (1.25 hour sessions). This is in comparison to afternoon classes and ones that occur three times a week (50 minute sessions). 
 ![Counts](images/stand.png)
