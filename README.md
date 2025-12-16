@@ -19,11 +19,12 @@ Overall, students preferred the block class schedule compared to stand alone cla
 Under the umbrella of block classes, students preferred to have blocks in the morning compared to the afternoon. Tuesday/Thursday and Monday/Wednesday had similar times. 
 ![Counts](images/block.png)
 
-Under the umbrella of stand alone classes, students preferred to have morning classes that occur twice a week (1.25 hour sessions). This is in comparison to afternoon classes and ones that occur three times a week (50 minute sessions). 
+Under the umbrella of stand alone classes, students overall preferred to have morning classes that occur twice a week (1.25 hour sessions). This is in comparison to afternoon classes and ones that occur three times a week (50 minute sessions). 
 ![Counts](images/stand.png)
 
 ### Qualitative Feedback
 There was an additional question for comments. Many students responded that block classes made their day easier as they only have to walk to Data Science once for that day. Also, students preferred morning class times because many other courses in the college (that students could take as part of a second major, minor, or elective) occur in the afternoon. 
 
 ## Conclusion
+
 Thank you for taking the time and effort to accomodate the preferences of students!
